@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Fizzbuzz::VERSION
   spec.authors       = ["Thomas Bush"]
   spec.email         = ["ThomasJosephBush@gmail.com"]
-  spec.summary       = %q{This is the fizzbuzz gem created as a learning experience.  }
+  spec.summary       = %q{This is a better summary}
   spec.description   = %q{This gem contains the common programming FizzBuzz game.  It was created in an effor to learn how to create gems during WMIRUG.  }
   spec.homepage      = ""
   spec.license       = "MIT"
